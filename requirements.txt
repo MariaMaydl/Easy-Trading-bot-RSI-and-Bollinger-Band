@@ -1,0 +1,4 @@
+matplotlib.pyplot==3.7.1
+pandas==1.5.3
+alpaca_trade_api==3.0.0
+yfinance==0.2.18
